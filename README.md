@@ -1,0 +1,2 @@
+# Follows
+Laravel Followable Package
